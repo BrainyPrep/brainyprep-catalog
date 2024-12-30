@@ -116,7 +116,8 @@ git commit -m "Add new project: [Project Title]"
 git push
 ```
 
-> [!NOTE] **Guidelines for Project Content**
+> [!NOTE] 
+> **Guidelines for Project Content**
 > **Title:** Keep it concise and descriptive.
 > **Description:** Summarize the project objective in a few sentences.
 > **Difficulty:** Use a scale of 1 (easy) to 5 (hard).

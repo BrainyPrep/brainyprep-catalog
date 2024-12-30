@@ -91,7 +91,8 @@ git push
 ### Step 5: Update the README
 
 
-> [!NOTE] **Guidelines for Course Content**
+> [!NOTE] 
+> **Guidelines for Course Content**
 > **Title:** Keep it concise and descriptive.
 > **Description:** Summarize the course objective in a few sentences.
 > **Difficulty:** Use a scale of 1 (easy) to 5 (hard).
