@@ -1,0 +1,98 @@
+{
+  "title": "Mastering Zustand: Minimalistic State Management for React",
+  "description": "Learn Zustand, a lightweight state management library, to build scalable, performant, and easy-to-maintain React applications.",
+  "difficulty": 2,
+  "duration": 12,
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzTYXTuTegB_gsGSwIN96WMqC0OTRPh-nw&s",
+  "categories": [
+    "web development"
+  ],
+  "bannerImage": "https://example.com/zustand-banner.jpg",
+  "courseOverview": "This course focuses on Zustand's simplicity and power. You'll explore how to manage state efficiently, handle asynchronous flows, and use advanced middleware for persistence and logging, ensuring your applications remain lightweight yet robust.",
+  "willLearn": [
+    "Understand Zustand's minimalistic approach to state management",
+    "Create and consume custom stores",
+    "Handle derived states and asynchronous updates",
+    "Implement middleware for persistence and debugging",
+    "Scale applications with multiple interconnected stores"
+  ],
+  "skills": [
+    "State management with Zustand",
+    "Asynchronous data handling",
+    "Middleware implementation",
+    "Performance optimization"
+  ],
+  "prerequisites": [
+    "Basic understanding of React",
+    "Knowledge of JavaScript ES6"
+  ],
+  "technologies": [
+    "Zustand",
+    "React"
+  ],
+  "sections": [
+    {
+      "title": "Getting Started with Zustand",
+      "firstMessage": "This section introduces you to Zustand, its philosophy, and how to set up a basic store.",
+      "lessons": [
+        {
+          "title": "Introduction to Zustand: Simplicity Over Complexity"
+        },
+        {
+          "title": "Installing and Setting Up Zustand"
+        },
+        {
+          "title": "Creating Your First Zustand Store"
+        },
+        {
+          "title": "Accessing Store Data in Components"
+        }
+      ]
+    },
+    {
+      "title": "Core Features and State Management",
+      "firstMessage": "Dive deeper into Zustand's core features, including managing derived states and optimizing state reactivity.",
+      "lessons": [
+        {
+          "title": "Understanding State Reactivity"
+        },
+        {
+          "title": "Using Derived States for Computed Data"
+        },
+        {
+          "title": "Avoiding State Duplication"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Middleware and Asynchronous State",
+      "firstMessage": "This section focuses on using middleware and managing asynchronous state with Zustand.",
+      "lessons": [
+        {
+          "title": "Persisting State with Middleware"
+        },
+        {
+          "title": "Handling API Calls in Zustand Stores"
+        },
+        {
+          "title": "Debugging with Zustand DevTools"
+        }
+      ]
+    },
+    {
+      "title": "Scaling and Optimizing Zustand Applications",
+      "firstMessage": "Learn how to scale Zustand applications by organizing multiple stores and optimizing for performance.",
+      "lessons": [
+        {
+          "title": "Creating Modular and Reusable Stores"
+        },
+        {
+          "title": "Cross-Store Communication"
+        },
+        {
+          "title": "Performance Best Practices for Zustand"
+        }
+      ]
+    }
+  ]
+}

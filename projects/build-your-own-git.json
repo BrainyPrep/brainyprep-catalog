@@ -1,0 +1,70 @@
+{
+  "title": "Build Your Own Git",
+  "description": "Learn about git objects, plumbing commands, and more.",
+  "difficulty": 3,
+  "duration": 8,
+  "categories": [
+    "bash"
+  ],
+  "icon": "https://prod-brainyprep.s3.us-west-2.amazonaws.com/public/icons/git.svg",
+  "overview": "This guide walks you through the internals of Git, focusing on understanding its fundamental components, such as Git objects, trees, and commits. You'll learn about plumbing commands and how they interact with these objects to build your own basic version of Git. By the end of this project, you'll have a deep understanding of how Git works under the hood.",
+  "sections": [
+    {
+      "title": "Introduction to Git Internals",
+      "firstMessage": "In this section, we'll explore what makes Git tick. Here's what you'll learn:\n1. Git's architecture\n2. What are Git objects?\n3. Introduction to hashing and SHA-1",
+      "lessons": [
+        {
+          "title": "Understanding Git's Architecture"
+        },
+        {
+          "title": "Overview of Git Objects"
+        },
+        {
+          "title": "Hashing in Git: SHA-1"
+        }
+      ]
+    },
+    {
+      "title": "Building Git Objects",
+      "firstMessage": "In this section, we will create Git objects step by step. Lessons include:\n1. Creating blobs\n2. Building trees\n3. Constructing commits",
+      "lessons": [
+        {
+          "title": "Creating Blob Objects"
+        },
+        {
+          "title": "Building Tree Objects"
+        },
+        {
+          "title": "Constructing Commit Objects"
+        }
+      ]
+    },
+    {
+      "title": "Working with Plumbing Commands",
+      "firstMessage": "This section covers Git's low-level commands. You'll learn:\n1. git hash-object\n2. git cat-file\n3. git update-index",
+      "lessons": [
+        {
+          "title": "Using git hash-object"
+        },
+        {
+          "title": "Exploring git cat-file"
+        },
+        {
+          "title": "Understanding git update-index"
+        }
+      ]
+    },
+    {
+      "title": "Creating Your Basic Git",
+      "firstMessage": "This section will guide you in combining everything you've learned to create a basic Git clone. Lessons:\n1. Combining objects\n2. Building a minimal Git command-line tool",
+      "lessons": [
+        {
+          "title": "Combining Git Objects"
+        },
+        {
+          "title": "Building a Basic Git Command-Line Tool"
+        }
+      ]
+    }
+  ]
+}

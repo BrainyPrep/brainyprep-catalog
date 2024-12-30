@@ -1,0 +1,112 @@
+{
+  "title": "Introduction to AI: Build and Deploy Your Own AI Model",
+  "description": "In this session, you will build a beginner-friendly AI model from scratch, learn how to train it, and deploy it for real-world use.",
+  "difficulty": 2,
+  "duration": 16,
+  "categories": [
+    "python"
+  ],
+  "icon": "python",
+  "bannerImage": "https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/65dcc7dc0e3b99757115ca4b_aprender-trabajar-inteligencia-artificial.webp",
+  "courseOverview": "In this hands-on course, you'll embark on a practical journey to create, train, and deploy an AI model, designed specifically for beginners. You'll start by understanding the fundamentals of AI and machine learning, exploring key concepts such as data preprocessing, model selection, and training techniques. Finally, you will deploy the model and create an UI to use your model.",
+  "willLearn": [
+    "Understand AI fundamentals and machine learning basics",
+    "Build an AI model from scratch using beginner-friendly tools",
+    "Learn the process of training models",
+    "Explore techniques for deploying AI models for practical use",
+    "Gain hands-on experience with popular AI frameworks and platforms"
+  ],
+  "skills": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Model Deployment",
+    "API Integration",
+    "Web Development (for AI applications)"
+  ],
+  "prerequisites": [
+    "Basic understanding of Python programming",
+    "Familiarity with cloud services (AWS, GCP, or Azure) is a plus",
+    "Interest in learning machine learning concepts and applications"
+  ],
+  "technologies": [
+    "Python",
+    "TensorFlow/Keras",
+    "Flask (for deployment)",
+    "Cloud services (AWS Lambda or Google Cloud Functions)",
+    "Frontend framework (optional for UI development)"
+  ],
+  "sections": [
+    {
+      "title": "Get Started",
+      "firstMessage": "Welcome to Introduction to AI: Build and Deploy Your Own AI Model.\n\nAre you ready to kick off your journey into the world of AI development?\n\nThe lessons for this section are:\n1. Introduction to AI & Machine Learning.\n2. Set Up the Environment.\n\nIf you're pumped and ready to start, click next and let's dive in! 💪",
+      "lessons": [
+        {
+          "title": "Introduction to AI & Machine Learning"
+        },
+        {
+          "title": "Set Up the Environment"
+        }
+      ]
+    },
+    {
+      "title": "Build the AI Model",
+      "firstMessage": "Hello again.\n\nAre you ready to explore AI models and learn how to build one?\n\nThe lessons for this section are:\n1. Import libraries required and why we use them.\n2. Load and preprocess the dataset.\n3. Define the model and why we use it.\n4. Train the model.\n\nIf you’re pumped and ready to start, click next and let’s dive in! 💪",
+      "lessons": [
+        {
+          "title": "Import Libraries"
+        },
+        {
+          "title": "Load and Preprocess the Dataset"
+        },
+        {
+          "title": "Define the AI Model"
+        },
+        {
+          "title": "Train the Model"
+        }
+      ]
+    },
+    {
+      "title": "Deploy the AI Model",
+      "firstMessage": "Is your model ready but you don’t know how to use it?\n\nWelcome to this section where you will learn how to deploy your model.\n\nThe lessons for this section are:\n1. How to create an API using Flask.\n2. Connect the API with your model.\n3. Deploy in the cloud.\n\nIf you’re pumped and ready to start, click next and let’s dive in! 💪",
+      "lessons": [
+        {
+          "title": "Create a Flask API"
+        },
+        {
+          "title": "Connect your model with the API"
+        },
+        {
+          "title": "Deploy the Model on Cloud"
+        }
+      ]
+    },
+    {
+      "title": "Test the AI Model",
+      "firstMessage": "Now it is time to test your model with real data. Welcome to this awesome section.\n\nThe lessons for this section are:\n1. Build a simple frontend to introduce the data and get the prediction.\n2. Connect the frontend with your deployed model.\n3. Test the deployed model.\n\nIf you’re pumped and ready to start, click next and let’s dive in! 💪",
+      "lessons": [
+        {
+          "title": "Build a Simple Frontend"
+        },
+        {
+          "title": "Connect the frontend with your deployed model"
+        },
+        {
+          "title": "Test the Deployed Model"
+        }
+      ]
+    },
+    {
+      "title": "Launch and Share Your Model",
+      "firstMessage": "Hello and welcome to our last section.\n\nIs your model ready to share with the world?\n\nThe lessons for this section are:\n1. Deploy the frontend.\n2. Share the model endpoint and frontend with the world.\n\nIf you’re pumped and ready to start, click next and let’s dive in! 💪",
+      "lessons": [
+        {
+          "title": "Finalize the Model and Deployment"
+        },
+        {
+          "title": "Share the Model"
+        }
+      ]
+    }
+  ]
+}

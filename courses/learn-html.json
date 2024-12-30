@@ -1,0 +1,105 @@
+{
+  "title": "HTML Basics",
+  "description": "Start at the beginning by learning HTML basics — an important foundation for building and editing web pages.",
+  "difficulty": 1,
+  "duration": 2,
+  "categories": [
+    "web development"
+  ],
+  "icon": "https://prod-brainyprep.s3.us-west-2.amazonaws.com/public/icons/html.svg",
+  "bannerImage": "https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1733236999~exp=1733240599~hmac=337cba77733622eaea1ea99aec6ac94dd0c56060aa2c2c00bf9f04603a61a504&w=996",
+  "courseOverview": "This course provides an introduction to HTML, the language used to structure content on the web. You will learn how to create and structure web pages, use common tags, and build a solid foundation for further web development learning.",
+  "willLearn": [
+    "What HTML is and why it's important",
+    "How to structure web pages using HTML",
+    "Common HTML tags and their usage",
+    "Creating lists, tables, and forms",
+    "Adding images and links to web pages"
+  ],
+  "skills": [
+    "Understanding of HTML syntax",
+    "Building basic web pages",
+    "Using semantic HTML for better web practices"
+  ],
+  "prerequisites": [
+    "Basic computer skills",
+    "Familiarity with using a web browser"
+  ],
+  "technologies": [
+    "HTML5"
+  ],
+  "sections": [
+    {
+      "title": "Introduction to HTML",
+      "firstMessage": "Welcome to the 'Introduction to HTML' section! In this section, you'll learn what HTML is, its basic structure, and how to set up your first HTML file. The lessons included are:\n1. What is HTML?\n2. HTML Document Structure\n3. Setting Up Your First HTML File",
+      "lessons": [
+        {
+          "title": "What is HTML?"
+        },
+        {
+          "title": "HTML Document Structure"
+        },
+        {
+          "title": "Setting Up Your First HTML File"
+        }
+      ]
+    },
+    {
+      "title": "HTML Elements and Tags",
+      "firstMessage": "In this section, we'll explore the different elements and tags you can use to build web pages. The lessons include:\n1. Understanding Tags and Elements\n2. Common HTML Tags\n3. Nesting and Combining Tags",
+      "lessons": [
+        {
+          "title": "Understanding Tags and Elements"
+        },
+        {
+          "title": "Common HTML Tags"
+        },
+        {
+          "title": "Nesting and Combining Tags"
+        }
+      ]
+    },
+    {
+      "title": "Structuring Web Pages",
+      "firstMessage": "This section covers how to properly structure your web pages using semantic HTML. The lessons are:\n1. Using Headings and Paragraphs\n2. Creating Lists\n3. Adding Images and Links",
+      "lessons": [
+        {
+          "title": "Using Headings and Paragraphs"
+        },
+        {
+          "title": "Creating Lists"
+        },
+        {
+          "title": "Adding Images and Links"
+        }
+      ]
+    },
+    {
+      "title": "HTML Tables and Forms",
+      "firstMessage": "In this section, we'll learn how to create tables and forms using HTML. The lessons include:\n1. Creating Tables\n2. Understanding Forms\n3. Adding Input Elements",
+      "lessons": [
+        {
+          "title": "Creating Tables"
+        },
+        {
+          "title": "Understanding Forms"
+        },
+        {
+          "title": "Adding Input Elements"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion and Next Steps",
+      "firstMessage": "Congratulations on completing the course! In this section, we'll summarize what you've learned and provide tips for your next steps. The lessons include:\n1. Course Recap\n2. Exploring Advanced HTML Topics",
+      "lessons": [
+        {
+          "title": "Course Recap"
+        },
+        {
+          "title": "Exploring Advanced HTML Topics"
+        }
+      ]
+    }
+  ]
+}

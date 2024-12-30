@@ -1,0 +1,232 @@
+{
+  "title": "Fundamentals of Web Development",
+  "description": "Are you looking to get your hands on Web development? Look no more. This course is specially designed to equip you with the essential skills needed to create modern, responsive websites.",
+  "difficulty": "1",
+  "duration": 3,
+  "bannerImage": "https://www.cisinformatica.cat/wp-content/uploads/2023/05/porque-son-importantes-las-paginas-web-en-la-actualidad-3.jpg",
+  "courseOverview": "In this course we’ll begin with the fundamentals of HTML, CSS, and JavaScript, giving you a strong foundation in front-end development. Ensuring you understand how a page looks inside and how to make your pages the first in search engines. By the end, you’ll be ready to deploy your own websites and understand key web development practices.",
+  "categories": [
+    "Web Development"
+  ],
+  "willLearn": [
+    "Gain the skills to create and style modern web pages.",
+    "Understand how to build responsive and dynamic web applications.",
+    "Learn how to optimize websites for SEO and performance."
+  ],
+  "skills": [
+    "Web development",
+    "Styling web pages",
+    "Static Site Generation (SSG)",
+    "Javascript for DOM manipulation",
+    "HTML syntax and semantic"
+  ],
+  "prerequisites": [
+    "Interest in learning web page development",
+    "Understand what is a web page"
+  ],
+  "technologies": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "sections": [
+    {
+      "title": "Intro to HTML",
+      "firstMessage": "Welcome to Fundamentals of web development. Are you ready to start your journey in web development?\n\nThe lessons in this section are:\n1. What is HTML.\n2. HTML format, elements, and tags.\n3. What are the attributes for tags?\n4. What kind of tags for text exist?\n5. Create links to navigate the content and to other pages.\n6. How can I use images?\n7. How can I create an ordered list?\n8. How can I create an unordered list?\n9. How can I create a table?\n\nReady to get started with HTML? click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "What is HTML"
+        },
+        {
+          "title": "HTML Format, Elements, and Tags"
+        },
+        {
+          "title": "Attributes for Tags"
+        },
+        {
+          "title": "Tags for Text"
+        },
+        {
+          "title": "Creating Links to Navigate"
+        },
+        {
+          "title": "Using Images in HTML"
+        },
+        {
+          "title": "Creating an Ordered List"
+        },
+        {
+          "title": "Creating an Unordered List"
+        },
+        {
+          "title": "Creating a Table"
+        }
+      ]
+    },
+    {
+      "title": "Forms in HTML",
+      "firstMessage": "Hello again. Are you ready to continue your learning in HTML?\n\nThe lessons for this section are:\n1. What are forms used for?\n2. All types of inputs available.\n3. Difference between input type submit and buttons.\n4. Form default event.\n5. Create a contact form.\n\nReady to learn about forms? click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "What are Forms Used For?"
+        },
+        {
+          "title": "Types of Inputs"
+        },
+        {
+          "title": "Difference Between Input Type Submit and Buttons"
+        },
+        {
+          "title": "Form Default Event"
+        },
+        {
+          "title": "Creating a Contact Form"
+        }
+      ]
+    },
+    {
+      "title": "SEO",
+      "firstMessage": "Hello! Let’s dive into SEO and how it helps your website grow.\n\nThe lessons include:\n1. What is SEO?\n2. What are the benefits of creating an SEO-driven web page?\n3. How HTML can help with SEO.\n\nReady to boost your SEO knowledge? Click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "What is SEO?"
+        },
+        {
+          "title": "Benefits of Creating an SEO-Driven Web Page"
+        },
+        {
+          "title": "How HTML Helps with SEO"
+        }
+      ]
+    },
+    {
+      "title": "Intro to CSS",
+      "firstMessage": "Are you wondering how to beautify your page? Let's explore how CSS helps style your website.\n\nThe lessons include:\n1. What is CSS?\n2. Syntax and structure of CSS.\n3. What are the unit measures?\n4. Text and font properties.\n5. Colors and background.\n6. Display and positioning properties.\n\nReady to master CSS? Click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "What is CSS?"
+        },
+        {
+          "title": "Syntax and Structure of CSS"
+        },
+        {
+          "title": "Unit Measures in CSS"
+        },
+        {
+          "title": "Text and Font Properties"
+        },
+        {
+          "title": "Colors and Background"
+        },
+        {
+          "title": "Display and Positioning Properties"
+        }
+      ]
+    },
+    {
+      "title": "Layouts",
+      "firstMessage": "Hello! In this section, we will cover CSS layouts.\n\nThe lessons include:\n1. What are the different layout options available and how do they work?\n2. Understanding the box model.\n3. How to create a grid of columns.\n4. Advanced usage of grids.\n5. What is Flexbox?\n6. Advanced usage of Flexbox.\n\nReady to dive into layouts? Click next to start! 💪",
+      "lessons": [
+        {
+          "title": "Layout Options in CSS"
+        },
+        {
+          "title": "Understanding the Box Model"
+        },
+        {
+          "title": "Creating a Grid of Columns"
+        },
+        {
+          "title": "Advanced Grid Usage"
+        },
+        {
+          "title": "What is Flexbox?"
+        },
+        {
+          "title": "Advanced Flexbox Usage"
+        }
+      ]
+    },
+    {
+      "title": "Animations",
+      "firstMessage": "Are you wondering how to animate content on your website? Let's dive into it.\n\nThe lessons include:\n1. What are the benefits of animating content?\n2. How CSS can help with animation.\n3. How transition properties improve animations.\n\nReady to bring your website to life? Click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "Benefits of Animating Content"
+        },
+        {
+          "title": "How CSS Helps with Animation"
+        },
+        {
+          "title": "Using Transition Properties to Improve Animations"
+        }
+      ]
+    },
+    {
+      "title": "Responsive and Variables",
+      "firstMessage": "Welcome back! Now your web looks fantastic, doesn't it? Have you noticed that any change in the web size can break everything?\n\nIn this section, we will solve it by understanding everything about responsive design and CSS variables. The lessons include:\n1. What is Responsive design?\n2. How to create a responsive design.\n3. What are CSS variables?\n4. How to use CSS variables.\n5. How can CSS variables help with responsiveness?\n\nReady to tackle responsive design? Click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "What is Responsive Design?"
+        },
+        {
+          "title": "Creating a Responsive Design"
+        },
+        {
+          "title": "What are CSS Variables?"
+        },
+        {
+          "title": "Using CSS Variables"
+        },
+        {
+          "title": "How CSS Variables Help with Responsiveness"
+        }
+      ]
+    },
+    {
+      "title": "Javascript",
+      "firstMessage": "Hey! Let’s dive into JavaScript, the magic behind every web page.\n\nThe lessons include:\n1. What is JavaScript?\n2. Variables and constants.\n3. Data types.\n4. Operators and expressions.\n5. Functions.\n6. Events.\n7. The DOM.\n\nReady to explore JavaScript? Click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "What is Javascript?"
+        },
+        {
+          "title": "Variables and Constants"
+        },
+        {
+          "title": "Data Types"
+        },
+        {
+          "title": "Operators and Expressions"
+        },
+        {
+          "title": "Functions"
+        },
+        {
+          "title": "Events"
+        },
+        {
+          "title": "The DOM"
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "firstMessage": "Great! Now we can explore how to build real projects and see your knowledge applied.\n\nThe lessons include:\n1. Personal Portfolio\n2. Responsive Landing Page\n3. Simple Blog\n4. E-commerce homepage\n\nReady to create some projects? Click next to begin! 💪",
+      "lessons": [
+        {
+          "title": "Personal Portfolio"
+        },
+        {
+          "title": "Responsive Landing Page"
+        },
+        {
+          "title": "Simple Blog"
+        },
+        {
+          "title": "E-commerce Homepage"
+        }
+      ]
+    }
+  ]
+}

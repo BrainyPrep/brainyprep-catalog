@@ -1,0 +1,73 @@
+{
+  "title": "Build Your Own SQLite",
+  "description": "Learn about SQL syntax, SQLite's file format, B-trees, and more.",
+  "difficulty": 3,
+  "duration": 6,
+  "categories": [
+    "Databases"
+  ],
+  "icon": "https://prod-brainyprep.s3.us-west-2.amazonaws.com/public/icons/sqlite.svg",
+  "overview": "This guide takes you through the process of building a basic version of SQLite, one of the most widely used database engines. You'll explore SQL syntax, understand SQLite's file format, dive into the mechanics of B-trees, and learn how data is stored and queried efficiently. By the end of the project, you will have implemented key features of a simple database engine.",
+  "sections": [
+    {
+      "title": "Introduction to SQLite and Databases",
+      "firstMessage": "This section introduces you to SQLite and its fundamental concepts. Here's what you'll learn:\n1. Overview of databases and SQLite\n2. Introduction to SQL syntax\n3. How SQLite works internally",
+      "lessons": [
+        {
+          "title": "Overview of Databases and SQLite"
+        },
+        {
+          "title": "Introduction to SQL Syntax"
+        },
+        {
+          "title": "Understanding SQLite's Internal Mechanisms"
+        }
+      ]
+    },
+    {
+      "title": "Exploring SQLite's File Format",
+      "firstMessage": "In this section, we'll dive into the structure of SQLite's database file. Lessons include:\n1. The SQLite file format\n2. Pages, headers, and schema representation\n3. Storing data in SQLite",
+      "lessons": [
+        {
+          "title": "The SQLite File Format"
+        },
+        {
+          "title": "Pages, Headers, and Schema Representation"
+        },
+        {
+          "title": "Storing Data in SQLite"
+        }
+      ]
+    },
+    {
+      "title": "Understanding B-Trees",
+      "firstMessage": "Learn how SQLite organizes and queries data efficiently using B-trees. Lessons include:\n1. Basics of B-trees\n2. Implementing B-tree nodes\n3. Querying with B-trees",
+      "lessons": [
+        {
+          "title": "Basics of B-Trees"
+        },
+        {
+          "title": "Implementing B-Tree Nodes"
+        },
+        {
+          "title": "Querying with B-Trees"
+        }
+      ]
+    },
+    {
+      "title": "Building a Minimal SQLite Clone",
+      "firstMessage": "This section combines everything you've learned to build a simple SQLite clone. Lessons:\n1. Parsing SQL commands\n2. Managing a database file\n3. Executing queries and returning results",
+      "lessons": [
+        {
+          "title": "Parsing SQL Commands"
+        },
+        {
+          "title": "Managing a Database File"
+        },
+        {
+          "title": "Executing Queries and Returning Results"
+        }
+      ]
+    }
+  ]
+}

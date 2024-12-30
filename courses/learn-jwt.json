@@ -1,0 +1,128 @@
+{
+  "title": "JWT Authentication and Authorization in Node.js",
+  "description": "Learn how to implement authentication and role-based authorization using JWT in Node.js applications for secure and scalable systems.",
+  "difficulty": 3,
+  "duration": 5,
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzTYXTuTegB_gsGSwIN96WMqC0OTRPh-nw&s",
+  "categories": [
+    "web development"
+  ],
+  "bannerImage": "https://example.com/jwt-node-banner.jpg",
+  "courseOverview": "This course will teach you the fundamentals of implementing secure authentication with JWT tokens in a Node.js environment. You will cover the creation of secure login systems, handling of user roles, and implementing authorization for various user permissions using JWT.",
+  "willLearn": [
+    "How JWT works for authentication and authorization",
+    "Set up JWT authentication with Node.js and Express",
+    "Generate and validate JWT tokens",
+    "Secure API routes using JWT and role-based access control",
+    "Refresh tokens and handle session expiration"
+  ],
+  "skills": [
+    "JWT-based user authentication",
+    "Role-based access control (RBAC)",
+    "Secure REST API endpoints with JWT",
+    "Session management with JWT tokens"
+  ],
+  "prerequisites": [
+    "Basic knowledge of Node.js and Express",
+    "Familiarity with REST APIs and HTTP methods"
+  ],
+  "technologies": [
+    "Node.js",
+    "Express.js",
+    "JWT",
+    "Bcrypt",
+    "MongoDB"
+  ],
+  "sections": [
+    {
+      "title": "Introduction to JWT Authentication",
+      "firstMessage": "In this section, we will explore what JWT is and set up a basic Node.js project with JWT authentication.",
+      "lessons": [
+        {
+          "title": "What is JWT and How Does It Work?"
+        },
+        {
+          "title": "Setting Up a Node.js Project with JWT"
+        },
+        {
+          "title": "Installing Dependencies (JWT, Bcrypt, Express)"
+        }
+      ]
+    },
+    {
+      "title": "Creating User Registration and Login System",
+      "firstMessage": "In this section, we’ll build the user registration and login system, generating JWT tokens upon successful login.",
+      "lessons": [
+        {
+          "title": "Creating User Model with Mongoose"
+        },
+        {
+          "title": "Hashing Passwords with Bcrypt"
+        },
+        {
+          "title": "Generating JWT Tokens on Login"
+        }
+      ]
+    },
+    {
+      "title": "Securing Routes with JWT Authentication",
+      "firstMessage": "Now, we will secure specific API routes using JWT to ensure that only authorized users can access them.",
+      "lessons": [
+        {
+          "title": "Creating JWT Middleware to Secure Routes"
+        },
+        {
+          "title": "Handling Unauthorized Requests"
+        },
+        {
+          "title": "Securing Private Routes with JWT Validation"
+        }
+      ]
+    },
+    {
+      "title": "Role-Based Authorization with JWT",
+      "firstMessage": "In this section, we’ll implement role-based access control (RBAC) using JWT to restrict access to certain parts of the application based on user roles.",
+      "lessons": [
+        {
+          "title": "Defining User Roles and Permissions"
+        },
+        {
+          "title": "Securing Routes with Role-Based Access Control"
+        },
+        {
+          "title": "Checking User Roles in JWT Payload"
+        }
+      ]
+    },
+    {
+      "title": "JWT Refresh Tokens and Session Management",
+      "firstMessage": "Learn how to manage user sessions with refresh tokens, extending session validity while maintaining security.",
+      "lessons": [
+        {
+          "title": "Implementing Refresh Tokens for Session Extension"
+        },
+        {
+          "title": "Handling Token Expiration and Logout"
+        },
+        {
+          "title": "Storing Tokens Securely (HttpOnly Cookies)"
+        }
+      ]
+    },
+    {
+      "title": "Testing JWT Authentication and Authorization",
+      "firstMessage": "Finally, learn how to test the authentication and authorization system to ensure everything works as expected.",
+      "lessons": [
+        {
+          "title": "Testing Authentication Flow with Postman"
+        },
+        {
+          "title": "Testing Authorization with Different Roles"
+        },
+        {
+          "title": "Unit Testing JWT Middleware"
+        }
+      ]
+    }
+  ]
+}

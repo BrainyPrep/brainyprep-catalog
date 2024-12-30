@@ -1,0 +1,98 @@
+{
+  "title": "Using Redis for Cache and Queues in Node.js",
+  "description": "A specialized course on using Redis in Node.js for efficient cache management and background task queues.",
+  "difficulty": 2,
+  "duration": 8,
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzTYXTuTegB_gsGSwIN96WMqC0OTRPh-nw&s",
+  "categories": [
+    "web development"
+  ],
+  "bannerImage": "https://example.com/redis-node-banner.jpg",
+  "courseOverview": "In this course, you'll learn how to integrate Redis with Node.js applications to optimize performance using caching and manage background tasks with queues. You’ll explore how to handle real-time data, improve API performance, and implement job queues for async tasks.",
+  "willLearn": [
+    "Understand what Redis is and how it fits into backend architectures",
+    "Set up Redis with Node.js using the `ioredis` package",
+    "Implement caching mechanisms to speed up API responses",
+    "Create background task queues using Redis and `bull`",
+    "Monitor Redis performance and optimize its usage"
+  ],
+  "skills": [
+    "Caching with Redis in Node.js",
+    "Job queue management using Redis and `bull`",
+    "Redis pub/sub mechanism for real-time data",
+    "Performance monitoring and optimization with Redis"
+  ],
+  "prerequisites": [
+    "Familiarity with Node.js and JavaScript",
+    "Basic understanding of caching concepts"
+  ],
+  "technologies": [
+    "Node.js",
+    "Redis",
+    "ioredis",
+    "bull",
+    "Pub/Sub"
+  ],
+  "sections": [
+    {
+      "title": "Introduction to Redis and Node.js Integration",
+      "firstMessage": "In this section, we will introduce Redis and set it up for use in a Node.js application.",
+      "lessons": [
+        {
+          "title": "What is Redis?"
+        },
+        {
+          "title": "Installing Redis Locally and Using ioredis in Node.js"
+        },
+        {
+          "title": "Basic Redis Commands and Connections"
+        }
+      ]
+    },
+    {
+      "title": "Using Redis for Caching in Node.js",
+      "firstMessage": "Learn how to use Redis for caching and optimizing your Node.js API's performance.",
+      "lessons": [
+        {
+          "title": "Setting Up Redis Caching for API Responses"
+        },
+        {
+          "title": "Handling Cache Expiration and Eviction Policies"
+        },
+        {
+          "title": "Optimizing Cache Usage and Monitoring"
+        }
+      ]
+    },
+    {
+      "title": "Background Task Queues with Redis and Bull",
+      "firstMessage": "In this section, we will dive into background job management using Redis and Bull for task queues.",
+      "lessons": [
+        {
+          "title": "Setting Up a Background Task Queue with Bull"
+        },
+        {
+          "title": "Handling Delayed and Repeatable Jobs"
+        },
+        {
+          "title": "Monitoring and Managing Queues in Redis"
+        }
+      ]
+    },
+    {
+      "title": "Real-Time Data with Redis Pub/Sub",
+      "firstMessage": "Learn how to use Redis Pub/Sub to handle real-time data in your application.",
+      "lessons": [
+        {
+          "title": "Understanding Redis Pub/Sub"
+        },
+        {
+          "title": "Implementing Real-Time Messaging with Pub/Sub"
+        },
+        {
+          "title": "Scaling Real-Time Applications with Redis"
+        }
+      ]
+    }
+  ]
+}

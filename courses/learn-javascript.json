@@ -1,0 +1,121 @@
+{
+  "title": "Learn JavaScript",
+  "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+  "difficulty": 1,
+  "duration": 8,
+  "categories": [
+    "web development",
+    "javascript"
+  ],
+  "icon": "https://prod-brainyprep.s3.us-west-2.amazonaws.com/public/icons/javascript.svg",
+  "bannerImage": "https://img.freepik.com/free-photo/side-shot-code-editor-using-react-js_181624-61842.jpg?t=st=1733238048~exp=1733241648~hmac=1a38e1a472f979dda77fd1e6977248581eff0b11fa2171d281f7fd6365321be6&w=996",
+  "courseOverview": "This course introduces you to JavaScript, a powerful programming language used to add interactivity and functionality to web pages. You'll learn about variables, functions, loops, and more to start building dynamic websites.",
+  "willLearn": [
+    "What JavaScript is and how it works",
+    "Using variables and operators",
+    "Writing functions to organize code",
+    "Understanding loops and conditions",
+    "Working with the Document Object Model (DOM)"
+  ],
+  "skills": [
+    "Basic programming concepts",
+    "Writing and running JavaScript code",
+    "Adding interactivity to web pages"
+  ],
+  "prerequisites": [
+    "Basic understanding of HTML and CSS",
+    "Familiarity with using a text editor and browser"
+  ],
+  "technologies": [
+    "JavaScript"
+  ],
+  "sections": [
+    {
+      "title": "Introduction to JavaScript",
+      "firstMessage": "Welcome to the 'Introduction to JavaScript' section! Here, you'll learn the basics of what JavaScript is and how it integrates with HTML. Lessons include:\n1. What is JavaScript?\n2. Adding JavaScript to a Web Page\n3. Understanding the Browser Console",
+      "lessons": [
+        {
+          "title": "What is JavaScript?"
+        },
+        {
+          "title": "Adding JavaScript to a Web Page"
+        },
+        {
+          "title": "Understanding the Browser Console"
+        }
+      ]
+    },
+    {
+      "title": "JavaScript Basics",
+      "firstMessage": "In this section, we dive into the core basics of JavaScript programming. Lessons include:\n1. Variables and Data Types\n2. Operators in JavaScript\n3. Writing Your First JavaScript Program",
+      "lessons": [
+        {
+          "title": "Variables and Data Types"
+        },
+        {
+          "title": "Operators in JavaScript"
+        },
+        {
+          "title": "Writing Your First JavaScript Program"
+        }
+      ]
+    },
+    {
+      "title": "Control Flow in JavaScript",
+      "firstMessage": "This section focuses on controlling the flow of your programs using conditions and loops. Lessons include:\n1. If-Else Statements\n2. Loops: For, While, and Do-While\n3. Switch Statements",
+      "lessons": [
+        {
+          "title": "If-Else Statements"
+        },
+        {
+          "title": "Loops: For, While, and Do-While"
+        },
+        {
+          "title": "Switch Statements"
+        }
+      ]
+    },
+    {
+      "title": "Functions and Scope",
+      "firstMessage": "Learn how to organize your code with functions and understand variable scope. Lessons include:\n1. Defining and Calling Functions\n2. Function Parameters and Return Values\n3. Understanding Variable Scope",
+      "lessons": [
+        {
+          "title": "Defining and Calling Functions"
+        },
+        {
+          "title": "Function Parameters and Return Values"
+        },
+        {
+          "title": "Understanding Variable Scope"
+        }
+      ]
+    },
+    {
+      "title": "Working with the DOM",
+      "firstMessage": "Discover how to interact with web pages using the Document Object Model (DOM). Lessons include:\n1. Introduction to the DOM\n2. Selecting and Manipulating Elements\n3. Adding Event Listeners",
+      "lessons": [
+        {
+          "title": "Introduction to the DOM"
+        },
+        {
+          "title": "Selecting and Manipulating Elements"
+        },
+        {
+          "title": "Adding Event Listeners"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion and Next Steps",
+      "firstMessage": "Congratulations on completing the JavaScript Basics course! Let's recap and explore further learning opportunities. Lessons include:\n1. Course Recap\n2. Advanced JavaScript Topics to Explore",
+      "lessons": [
+        {
+          "title": "Course Recap"
+        },
+        {
+          "title": "Advanced JavaScript Topics to Explore"
+        }
+      ]
+    }
+  ]
+}

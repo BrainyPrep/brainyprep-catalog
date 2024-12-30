@@ -1,0 +1,286 @@
+{
+  "title": "Next.js and React: Build Dynamic Web Applications",
+  "description": "Build modern, dynamic web applications using React and Next.js. Learn to create fast, SEO-friendly websites with server-side rendering, static site generation, and powerful API integration.",
+  "difficulty": "3",
+  "categories": [
+    "web development"
+  ],
+  "icon": "next",
+  "courseOverview": "In this course, you’ll learn how to create cutting-edge, dynamic web applications using React and Next.js—two of the most powerful tools in modern web development. You'll dive into Next.js, a popular React framework that brings server-side rendering (SSR) and static site generation (SSG) to the table. You’ll explore how to build fast, SEO-friendly websites with Next.js, leveraging its built-in optimizations to improve both performance and search engine visibility. <br/><br/> Throughout the course, you’ll also learn how to integrate APIs to create feature-rich, dynamic applications. By the end of the course, you’ll be equipped with the skills to build modern, high-performance web apps that are ready for real-world deployment.",
+  "bannerImage": "https://www.cisinformatica.cat/wp-content/uploads/2023/05/porque-son-importantes-las-paginas-web-en-la-actualidad-3.jpg",
+  "willLearn": [
+    "Understand Next.js features like server-side rendering (SSR) and static site generation (SSG)",
+    "How to Build fast, SEO-optimized websites with Next.js",
+    "Learn to integrate APIs for creating dynamic and data-driven web applications"
+  ],
+  "skills": [
+    "React Component Architecture",
+    "Server-Side Rendering (SSR)",
+    "Static Site Generation (SSG)",
+    "API Integration",
+    "Frontend Routing"
+  ],
+  "prerequisites": [
+    "Basic understanding of JavaScript (ES6+)",
+    "Familiarity with React (Components, Hooks)",
+    "Knowledge of HTML/CSS"
+  ],
+  "technologies": [
+    "React.js",
+    "Next.js",
+    "CSS Modules",
+    "Vercel",
+    "Node.js"
+  ],
+  "sections": [
+    {
+      "title": "About React and Next.js",
+      "firstMessage": "Hello future developer. Welcome to Next.js and React: Build Dynamic Web Applications.\n\nAre you ready to advance in your journey as a frontend developer?\n\nIn this section, we will cover the following lessons:\n1. Introduction to React and Next.js.\n2. Understanding the building blocks of a web application.\n3. What is React?\n4. What is Next.js?\n\nIf you’re pumped and ready to start, type 'Continue' and let’s dive in! 💪",
+      "lessons": [
+        {
+          "title": "Introduction to Next.js and React"
+        },
+        {
+          "title": "Building Blocks of a Web Application"
+        },
+        {
+          "title": "What is React?"
+        },
+        {
+          "title": "What is Next.js?"
+        }
+      ]
+    },
+    {
+      "title": "Rendering User Interfaces (UI)",
+      "firstMessage": "Welcome back, developer. Are you ready to understand how rendering works?\n\nIn this section, we will cover the following lessons:\n1. Rendering in React\n2. Client-Side Rendering (CSR) vs Server-Side Rendering (SSR)\n3. Next.js Rendering Modes: SSR, SSG, ISR\n\nIf you’re pumped and ready to start, type 'Continue' and let’s dive in! 💪",
+      "lessons": [
+        {
+          "title": "Rendering in React"
+        },
+        {
+          "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR)"
+        },
+        {
+          "title": "Next.js Rendering Modes: SSR, SSG, ISR"
+        }
+      ]
+    },
+    {
+      "title": "Routing in Next.js",
+      "firstMessage": "Now that you understand how to show content on your web, let's start navigating between pages.\n\nIn this section, we will cover the following lessons:\n1. Introduction to file-based routing in Next.js.\n2. Creating dynamic routes with Next.js ([id].js).\n3. Nested routes and linking between pages.\n4. Client-side navigation with the next/link component.\n\nReady to master routing? Type 'Continue' and let's dive in! 💪",
+      "lessons": [
+        {
+          "title": "Introduction to File-Based Routing in Next.js"
+        },
+        {
+          "title": "Creating Dynamic Routes with Next.js ([id].js)"
+        },
+        {
+          "title": "Nested Routes and Linking Between Pages"
+        },
+        {
+          "title": "Client-Side Navigation with the next/link Component"
+        }
+      ]
+    },
+    {
+      "title": "Data Fetching in Next.js",
+      "firstMessage": "Hello again, developer! In this section, we will explore how to fetch data in Next.js efficiently.\n\nThe following lessons will guide you:\n1. Introduction to data fetching methods in Next.js.\n2. Using getServerSideProps for server-side rendering.\n3. Using getStaticProps for static site generation.\n4. Using getStaticPaths for dynamic static generation.\n5. Fetching client-side data with React Hooks (useEffect).\n\nReady to unlock the power of data fetching? Type 'Continue' and let's get started! 💪",
+      "lessons": [
+        {
+          "title": "Introduction to Data Fetching Methods in Next.js"
+        },
+        {
+          "title": "Using getServerSideProps for Server-Side Rendering"
+        },
+        {
+          "title": "Using getStaticProps for Static Site Generation"
+        },
+        {
+          "title": "Using getStaticPaths for Dynamic Static Generation"
+        },
+        {
+          "title": "Fetching Client-Side Data with React Hooks (useEffect)"
+        }
+      ]
+    },
+    {
+      "title": "State Management with React Hooks",
+      "firstMessage": "Welcome back, developer! Now it's time to dive into state management using React Hooks.\n\nIn this section, we will cover the following lessons:\n1. Understanding React state and side effects.\n2. Using useState to manage local component state.\n3. Using useEffect for handling side effects.\n4. Global state management with Context API.\n\nReady to master state management? Type 'Continue' and let's get started! 💪",
+      "lessons": [
+        {
+          "title": "Understanding React State and Side Effects"
+        },
+        {
+          "title": "Using useState to Manage Local Component State"
+        },
+        {
+          "title": "Using useEffect for Handling Side Effects"
+        },
+        {
+          "title": "Global State Management with Context API"
+        }
+      ]
+    },
+    {
+      "title": "API Routes and Serverless Functions",
+      "firstMessage": "Are you wondering how the client and server can work together? In this section, we'll explore server functions and API routes.\n\nThe lessons covered in this section are:\n1. Introduction to API routes in Next.js.\n2. Creating API endpoints with Next.js.\n3. Using API routes to handle form submissions and interact with databases.\n4. Understanding serverless functions and how they fit into Next.js.\n\nReady to dive into the world of APIs and serverless functions? Type 'Continue' and let’s begin! 💪",
+      "lessons": [
+        {
+          "title": "Introduction to API Routes in Next.js"
+        },
+        {
+          "title": "Creating API Endpoints with Next.js"
+        },
+        {
+          "title": "Using API Routes to Handle Form Submissions and Interact with Databases"
+        },
+        {
+          "title": "Understanding Serverless Functions and How They Fit into Next.js"
+        }
+      ]
+    },
+    {
+      "title": "Styling in Next.js",
+      "firstMessage": "Are you tired of your web looking simple? \n\nIn this section, you’ll learn how to make your app look amazing with the following lessons:\n1. CSS in Next.js: Using CSS Modules and global styles.\n2. Implementing CSS frameworks like Tailwind CSS.\n3. Dynamic and responsive styling in Next.js.\n4. Optimizing styles for performance.\n\nReady to take your styling skills to the next level? Type 'Continue' and let's get started! 💪",
+      "lessons": [
+        {
+          "title": "CSS in Next.js: Using CSS Modules and Global Styles"
+        },
+        {
+          "title": "Implementing CSS Frameworks like Tailwind CSS"
+        },
+        {
+          "title": "Dynamic and Responsive Styling in Next.js"
+        },
+        {
+          "title": "Optimizing Styles for Performance"
+        }
+      ]
+    },
+    {
+      "title": "Authentication and Authorization in Next.js",
+      "firstMessage": "Are you wondering how to manage users and restrict access? \n\nIn this section, we’ll cover authentication and authorization with the following lessons:\n1. Setting up authentication using NextAuth.js.\n2. Managing sessions and user data in Next.js.\n3. Protecting routes and server-side API endpoints.\n4. Role-based authorization and securing your app.\n\nReady to lock things down? Type 'Continue' and let’s secure your app! 💪",
+      "lessons": [
+        {
+          "title": "Setting Up Authentication Using NextAuth.js"
+        },
+        {
+          "title": "Managing Sessions and User Data in Next.js"
+        },
+        {
+          "title": "Protecting Routes and Server-Side API Endpoints"
+        },
+        {
+          "title": "Role-Based Authorization and Securing Your App"
+        }
+      ]
+    },
+    {
+      "title": "Working with External APIs and Services",
+      "firstMessage": "Hello developer! Now let’s explore how to connect your Next.js app with external APIs and services. \n\nIn this section, we will cover the following lessons:\n1. Integrating third-party APIs (e.g., payment, weather, etc.).\n2. Fetching data from external sources using getServerSideProps and getStaticProps.\n3. Handling API authentication and rate-limiting.\n\nReady to power up your app with external data? Type 'Continue' and let's get started! 💪",
+      "lessons": [
+        {
+          "title": "Integrating Third-Party APIs (e.g., Payment, Weather, etc.)"
+        },
+        {
+          "title": "Fetching Data from External Sources Using getServerSideProps and getStaticProps"
+        },
+        {
+          "title": "Handling API Authentication and Rate-Limiting"
+        }
+      ]
+    },
+    {
+      "title": "Performance Optimization in Next.js",
+      "firstMessage": "Now you are familiar with Next.js and wonder if there is anything else to improve? Well, there is. \n\nIn this section, we’ll dive into performance optimization with the following lessons:\n1. Optimizing image loading with the next/image component.\n2. Implementing lazy loading for components and data fetching.\n3. Leveraging caching and static optimization.\n4. Performance monitoring and debugging tools.\n\nReady to supercharge your app's performance? Type 'Continue' and let’s get started! 💪",
+      "lessons": [
+        {
+          "title": "Optimizing Image Loading with the next/image Component"
+        },
+        {
+          "title": "Implementing Lazy Loading for Components and Data Fetching"
+        },
+        {
+          "title": "Leveraging Caching and Static Optimization"
+        },
+        {
+          "title": "Performance Monitoring and Debugging Tools"
+        }
+      ]
+    },
+    {
+      "title": "Testing and Debugging in Next.js",
+      "firstMessage": "Do you think your Next.js app is rock solid? Want to make sure of that? \n\nIn this section, we’ll cover testing and debugging with the following lessons:\n1. Unit testing React components with Jest.\n2. Testing pages and API routes with Next.js.\n3. End-to-end testing with Cypress.\n4. Debugging common issues in Next.js applications.\n\nReady to test and debug like a pro? Type 'Continue' and let’s get started! 💪",
+      "lessons": [
+        {
+          "title": "Unit Testing React Components with Jest"
+        },
+        {
+          "title": "Testing Pages and API Routes with Next.js"
+        },
+        {
+          "title": "End-to-End Testing with Cypress"
+        },
+        {
+          "title": "Debugging Common Issues in Next.js Applications"
+        }
+      ]
+    },
+    {
+      "title": "SEO and Metadata in Next.js",
+      "firstMessage": "Did you know Next.js allows apps to be better for search engines and social media? \n\nIn this section, we will cover the following lessons:\n1. Managing metadata with the next/head component.\n2. Optimizing for SEO with Next.js (meta tags, Open Graph, structured data).\n3. Generating dynamic meta tags for social media sharing.\n4. Setting up dynamic and static sitemaps.\n\nReady to make your app more discoverable? Type 'Continue' and let's get started! 💪",
+      "lessons": [
+        {
+          "title": "Managing Metadata with the next/head Component"
+        },
+        {
+          "title": "Optimizing for SEO with Next.js (Meta Tags, Open Graph, Structured Data)"
+        },
+        {
+          "title": "Generating Dynamic Meta Tags for Social Media Sharing"
+        },
+        {
+          "title": "Setting Up Dynamic and Static Sitemaps"
+        }
+      ]
+    },
+    {
+      "title": "Deployment and Production",
+      "firstMessage": "Your app is done now what? Well, it’s time to learn how to deploy your Next.js app and get it ready for production. \n\nIn this section, we will cover the following lessons:\n1. Deploying a Next.js app to Vercel.\n2. Setting up environment variables and secrets in production.\n3. Deploying to alternative platforms (AWS, DigitalOcean, Netlify).\n4. Configuring continuous integration (CI) and continuous delivery (CD).\n\nReady to launch your app into the world? Type 'Continue' and let's get started! 💪",
+      "lessons": [
+        {
+          "title": "Deploying a Next.js App to Vercel"
+        },
+        {
+          "title": "Setting Up Environment Variables and Secrets in Production"
+        },
+        {
+          "title": "Deploying to Alternative Platforms (AWS, DigitalOcean, Netlify)"
+        },
+        {
+          "title": "Configuring Continuous Integration (CI) and Continuous Delivery (CD)"
+        }
+      ]
+    },
+    {
+      "title": "Next Steps and Beyond",
+      "firstMessage": "You’ve made it far! Now let’s explore what’s next in your journey with Next.js. \n\nIn this last section, we’ll cover:\n1. Next.js vs other frameworks: Comparing Gatsby and Nuxt.js.\n2. Introduction to JAMstack and the future of web development.\n3. Learning about advanced state management (Redux, Recoil).\n4. Resources for continuous learning in the Next.js and React ecosystem.\n\nReady to look ahead? Type 'Continue' and let’s explore the future! 💪",
+      "lessons": [
+        {
+          "title": "Next.js vs Other Frameworks: Comparing Gatsby and Nuxt.js"
+        },
+        {
+          "title": "Introduction to JAMstack and the Future of Web Development"
+        },
+        {
+          "title": "Learning About Advanced State Management (Redux, Recoil)"
+        },
+        {
+          "title": "Resources for Continuous Learning in the Next.js and React Ecosystem"
+        }
+      ]
+    }
+  ]
+}

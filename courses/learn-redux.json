@@ -1,0 +1,124 @@
+{
+  "title": "Advanced Redux Toolkit: Mastering State Management in React",
+  "description": "A complete course on Redux Toolkit, designed to make you proficient in modern state management techniques and best practices.",
+  "difficulty": 2,
+  "duration": 4,
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzTYXTuTegB_gsGSwIN96WMqC0OTRPh-nw&s",
+  "categories": [
+    "web development"
+  ],
+  "bannerImage": "https://example.com/redux-toolkit-banner.jpg",
+  "courseOverview": "This course provides a deep dive into Redux Toolkit, the modern approach to managing application state. From understanding its core features to mastering asynchronous flows and optimization techniques, you'll learn how to build scalable and maintainable state management solutions.",
+  "willLearn": [
+    "Understand Redux Toolkit's core architecture and concepts",
+    "Effectively manage complex state using slices and actions",
+    "Implement asynchronous state handling with createAsyncThunk",
+    "Organize and scale Redux Toolkit projects",
+    "Optimize performance using advanced techniques like memoization and reselect"
+  ],
+  "skills": [
+    "State management with Redux Toolkit",
+    "Asynchronous actions and middleware",
+    "Application scalability and modular architecture",
+    "Performance tuning for React-Redux applications"
+  ],
+  "prerequisites": [
+    "Basic React development",
+    "Familiarity with ES6 JavaScript"
+  ],
+  "technologies": [
+    "Redux Toolkit",
+    "React",
+    "Immer",
+    "Reselect"
+  ],
+  "sections": [
+    {
+      "title": "Introduction and Basics of Redux Toolkit",
+      "firstMessage": "In this section, you'll understand the fundamentals of Redux Toolkit, including setting up your first Redux store and using slices.",
+      "lessons": [
+        {
+          "title": "Introduction to Redux Toolkit: Why Modernize Redux?"
+        },
+        {
+          "title": "Setting Up a Redux Toolkit Project"
+        },
+        {
+          "title": "Understanding Slices: Actions and Reducers Simplified"
+        },
+        {
+          "title": "Integrating Redux Toolkit with React"
+        }
+      ]
+    },
+    {
+      "title": "Core Features and Hooks",
+      "firstMessage": "Learn how to leverage Redux Toolkit's core hooks and features to manage and interact with your application's global state.",
+      "lessons": [
+        {
+          "title": "Using useSelector to Access Global State"
+        },
+        {
+          "title": "Updating State with useDispatch"
+        },
+        {
+          "title": "Avoiding Common Pitfalls with Redux Hooks"
+        }
+      ]
+    },
+    {
+      "title": "Asynchronous State Management",
+      "firstMessage": "This section introduces asynchronous state handling using Redux Toolkit's createAsyncThunk.",
+      "lessons": [
+        {
+          "title": "Understanding the Lifecycle of Async Actions"
+        },
+        {
+          "title": "Fetching API Data with Thunks"
+        },
+        {
+          "title": "Error Handling and Retry Mechanisms"
+        },
+        {
+          "title": "Integrating Async Actions with Components"
+        }
+      ]
+    },
+    {
+      "title": "Organizing and Scaling Redux Applications",
+      "firstMessage": "Learn how to structure Redux applications for large-scale projects and ensure maintainability.",
+      "lessons": [
+        {
+          "title": "Organizing Slices into Modules"
+        },
+        {
+          "title": "Sharing Logic Between Slices"
+        },
+        {
+          "title": "Creating Reusable Selectors for Complex States"
+        },
+        {
+          "title": "Handling Nested and Normalized Data"
+        }
+      ]
+    },
+    {
+      "title": "Optimization and Debugging",
+      "firstMessage": "Discover advanced techniques to optimize Redux applications and debug state effectively.",
+      "lessons": [
+        {
+          "title": "Improving Performance with Memoized Selectors"
+        },
+        {
+          "title": "Using Redux DevTools for State Inspection"
+        },
+        {
+          "title": "Avoiding Unnecessary Component Renders"
+        },
+        {
+          "title": "Implementing Custom Middleware"
+        }
+      ]
+    }
+  ]
+}
